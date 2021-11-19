@@ -1,0 +1,2 @@
+lowestEnergy_dlgfn #runs #cl #LEC LE rmsd_LE #hb #ESTAT #HB #VDW #DSOLV #ats #tors #h_ats #lig_eff 
+./DLG,   3,  3,  1,  4.4600, 81.4848, 0, -0.0129,  0.0000,  0.0000,  0.0000  39,15, 8,  0.1439
