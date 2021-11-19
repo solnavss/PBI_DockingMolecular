@@ -19,12 +19,6 @@
 
 ```
 #############################################################################
-# Posgrado en Biologia Integrativa
-# Quimica Biologica - Modulo2
-# Pablo Adolfo Silva Villatoro
-# Gabriel Osuna Osuna
-# Marisol Navarro Miranda
-#############################################################################
 # INSTALACION DE AMBIENTES USANDO CONDA
 #############################################################################
 
